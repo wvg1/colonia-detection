@@ -10,5 +10,30 @@ Colonias are unincorporated residential communities clustered throughout the sou
 - What are the key spectral and spatial features that distinguish colonias from other settlement types?
 - Where does an ML-based approach fail, and what does that reveal about the problem?
 
+## Setup
+
+### Prerequisites
+- Python 3.8+
+- Git
+
+### Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/wvg1/colonia-detection.git
+cd colonia-detection
+```
+
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+3. Launch Jupyter notebooks:
+```bash
+jupyter notebook
+```
+
+Navigate to `notebooks/` and open `01_exploratory_analysis.ipynb`.
+
 # Data
 
